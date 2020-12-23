@@ -67,7 +67,7 @@ include_once "App/vistas/layout/header.php";
 			}
   
 			break;
-  }
+  
  }
 
 include_once "App/vistas/layout/footer.php";
